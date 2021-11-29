@@ -1,0 +1,12 @@
+/Users/vitvokroj/Projects/taylor/bin/Debug/netcoreapp3.1/taylor.deps.json
+/Users/vitvokroj/Projects/taylor/bin/Debug/netcoreapp3.1/taylor.runtimeconfig.json
+/Users/vitvokroj/Projects/taylor/bin/Debug/netcoreapp3.1/taylor.runtimeconfig.dev.json
+/Users/vitvokroj/Projects/taylor/bin/Debug/netcoreapp3.1/taylor.dll
+/Users/vitvokroj/Projects/taylor/bin/Debug/netcoreapp3.1/taylor.pdb
+/Users/vitvokroj/Projects/taylor/obj/Debug/netcoreapp3.1/taylor.csprojAssemblyReference.cache
+/Users/vitvokroj/Projects/taylor/obj/Debug/netcoreapp3.1/taylor.AssemblyInfoInputs.cache
+/Users/vitvokroj/Projects/taylor/obj/Debug/netcoreapp3.1/taylor.AssemblyInfo.cs
+/Users/vitvokroj/Projects/taylor/obj/Debug/netcoreapp3.1/taylor.csproj.CoreCompileInputs.cache
+/Users/vitvokroj/Projects/taylor/obj/Debug/netcoreapp3.1/taylor.dll
+/Users/vitvokroj/Projects/taylor/obj/Debug/netcoreapp3.1/taylor.pdb
+/Users/vitvokroj/Projects/taylor/obj/Debug/netcoreapp3.1/taylor.genruntimeconfig.cache
