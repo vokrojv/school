@@ -1,0 +1,2 @@
+# Sinus pomocí Taylorova polynomu
+
